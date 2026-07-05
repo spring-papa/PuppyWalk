@@ -1,0 +1,16 @@
+{
+  "name": "멍멍 산책",
+  "short_name": "멍멍산책",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7e8",
+  "theme_color": "#ff9fbc",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

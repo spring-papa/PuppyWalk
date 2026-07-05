@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="축하하는 강아지 토리">
+  <circle cx="110" cy="118" r="72" fill="#f6d7a8"/>
+  <ellipse cx="58" cy="90" rx="27" ry="45" fill="#bd8056" transform="rotate(-36 58 90)"/>
+  <ellipse cx="162" cy="90" rx="27" ry="45" fill="#bd8056" transform="rotate(36 162 90)"/>
+  <circle cx="110" cy="118" r="58" fill="#ffe6bd"/>
+  <path d="M78 109q9-13 18 0" fill="none" stroke="#49352d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M124 109q9-13 18 0" fill="none" stroke="#49352d" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="110" cy="131" rx="10" ry="7" fill="#5b4036"/>
+  <path d="M93 143c11 18 28 18 39 0" fill="none" stroke="#5b4036" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="70" cy="132" r="10" fill="#ffabc0" opacity=".85"/>
+  <circle cx="150" cy="132" r="10" fill="#ffabc0" opacity=".85"/>
+  <path d="M42 154c-20-5-25-15-19-25 11 8 24 9 36 1" fill="none" stroke="#bd8056" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="42" cy="54" r="7" fill="#ff9fbc"/><circle cx="178" cy="48" r="7" fill="#8bd3dd"/><circle cx="184" cy="82" r="6" fill="#ffd166"/><circle cx="32" cy="91" r="6" fill="#a8e6a3"/>
+</svg>
