@@ -1,15 +1,18 @@
 {
   "name": "멍멍 산책",
   "short_name": "멍멍산책",
+  "description": "토리와 함께 산책하며 학습 미션을 푸는 어린이 모바일 웹게임",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#fff7e8",
   "theme_color": "#ff9fbc",
   "icons": [
     {
-      "src": "assets/icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]

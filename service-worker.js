@@ -1,11 +1,12 @@
-const CACHE_NAME = "puppy-walk-v7";
+const CACHE_NAME = "puppy-walk-v8";
 const ASSETS = [
   "./",
   "./index.html",
-  "./style.css?v=20260705-5",
-  "./script.js?v=20260705-5",
+  "./style.css?v=20260705-6",
+  "./script.js?v=20260705-6",
   "./questions.json",
   "./manifest.json",
+  "./icon.png",
   "./assets/icons/icon.svg",
   "./assets/dog/dog-base.svg",
   "./assets/dog/dog-happy.svg",
